@@ -1,0 +1,3 @@
+sdk: other
+app_file: app/main.py
+python_version: 3.10
